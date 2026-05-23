@@ -1,0 +1,6 @@
+{
+  "name": "Tala Embouteillage",
+  "description": "Plateforme Congolaise de surveillance en temps réel des embouteillages à Kinshasa Gombe. Accédez aux flux vidéo en direct, évitez les encombrements et optimisez vos itinéraires.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
